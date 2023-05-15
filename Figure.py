@@ -152,7 +152,7 @@ class Hexagon:
             t.left(self.__angels)
         t.end_fill()
 
-class Elipse:
+class Ellipse:
     def __init__(self, x:int, y:int, r1:int|float, r2:int|float):
         self.x = x
         self.y = y
